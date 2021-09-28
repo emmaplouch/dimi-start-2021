@@ -9,10 +9,17 @@
 
 ## autres
 
+### Markdown
+
 Aperçu du MarkDown (.md) dans VS Code :
 ````
-
-Ctrl/Command + Shift + V
+Command + Shift + V
 ````
 
+### Plugins & thème dans VScode
 
+Accès au settings 
+
+```
+command ,
+```
