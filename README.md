@@ -6,4 +6,13 @@
 1. [git](https://github.com/emmaplouch/dimi-start-2021)
 1. node.js
 1. google chrome dev
-1. test pour modifs
+
+## autres
+
+Aperçu du MarkDown (.md) dans VS Code :
+````
+
+Ctrl/Command + Shift + V
+````
+
+
